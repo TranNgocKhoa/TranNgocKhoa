@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Statistics
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=tranngockhoa&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranngockhoa&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=tranngockhoa&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranngockhoa&hide_title=true&hide_border=true&layout=compact&hide=html,jupyter%20notebook&theme=dracula" />
 
