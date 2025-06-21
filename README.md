@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 
 ### Statistics
 
-[<img align="left" width="45%" alt="🦑" src="/general.svg">](#)
-[<img align="right" width="45%" alt="🦑" src="/achievements.svg">](#)
+![General Statistics](/general.svg)
+
+![Achievements](/achievements.svg)
+
+
+---
 
 ### Useful links
 - https://github.com/brettwooldridge/SansOrm/wiki/ORM-is-an-anti-pattern
