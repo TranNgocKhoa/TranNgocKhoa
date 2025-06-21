@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![General Statistics](/general.svg)
 
-![Achievements](/achievements.svg)
+![Starred topics](/metrics.plugin.topics.icons.svg)
 
 
 ---
