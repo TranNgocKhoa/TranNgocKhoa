@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: 🦑 General
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: general.svg
@@ -27,8 +27,9 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_traffic: yes
       - name: 🦑 Topics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@main
         with:
           filename: metrics.plugin.topics.icons.svg
           token: NOT_NEEDED

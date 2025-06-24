@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ![Starred topics](/metrics.plugin.topics.icons.svg)
 
+![Repositories traffic](/metrics.plugin.traffic.svg)
+
 
 ---
 
