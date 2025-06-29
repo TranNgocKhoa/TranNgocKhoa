@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Statistics
 
-![General Statistics](/metrics.svg.svg)
+![General Statistics](/metrics.svg)
 
 ---
 
