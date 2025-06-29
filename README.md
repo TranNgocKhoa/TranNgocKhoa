@@ -20,12 +20,7 @@ Here are some ideas to get you started:
 
 ### Statistics
 
-![General Statistics](/general.svg)
-
-![Starred topics](/metrics.plugin.topics.icons.svg)
-
-![Repositories traffic](/metrics.plugin.traffic.svg)
-
+![General Statistics](/metrics.svg.svg)
 
 ---
 
