@@ -32,10 +32,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
 
-          plugin_contributions: yes
-          plugin_contributions_sections: committer, reviewer
-          plugin_contributions_limit: 5
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
